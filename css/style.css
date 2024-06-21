@@ -83,8 +83,12 @@ form {
     max-width: 80%;
 }
 
+.behuzas_szoveg{
+    padding: 8%;
+}
+
 .behuzas_fo {
-    padding-left: 20%;
+    padding-left: 22%;
 }
 
 a{
