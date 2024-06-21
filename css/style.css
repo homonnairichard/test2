@@ -84,11 +84,13 @@ form {
 }
 
 .behuzas_szoveg{
-    padding: 8%;
+    border: 1px solid black;
+    padding: 10%;
 }
 
 .behuzas_fo {
-    padding-left: 22%;
+    border: 1px solid black;
+    padding-left: 20%;
 }
 
 a{
